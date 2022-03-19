@@ -29,3 +29,6 @@
 
 - 음성인식 LED : https://www.youtube.com/watch?v=Wq6_7ZdYTso
 - Raspberry Pi I2C LCD 1602 Two Channel Meter : https://youtu.be/NzDJsFn4Qwo
+
+# 블로그
+- https://blog.naver.com/PostList.naver?blogId=kjy6135&from=postList&categoryNo=6
