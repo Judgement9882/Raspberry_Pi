@@ -14,6 +14,7 @@
 # 컨텐츠
 
 - PiFaceCAD를 활용한 날씨, 알람 시계 만들기
+- PiFaceCAD + IR Remote Control
 - PiCamera를 활용한 타임랩스 비디오 만들기
 - PiCamera를 활용한 마스크 착용 검출하기
 - Pi의 GPIO 활용하기
@@ -27,6 +28,8 @@
 
 # 예제 영상
 
+- PiFaceCAD를 활용한 날씨, 알람 시계 만들기 : https://youtu.be/QiPQBKYG8-8
+- PiCamera를 활용한 타임랩스 비디오 만들기 : https://youtu.be/YKE-QmHXhY4
 - 음성인식 LED : https://www.youtube.com/watch?v=Wq6_7ZdYTso
 - Raspberry Pi I2C LCD 1602 Two Channel Meter : https://youtu.be/NzDJsFn4Qwo
 
