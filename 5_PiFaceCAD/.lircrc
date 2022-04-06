@@ -1,0 +1,18 @@
+begin
+prog = myprogram
+button = KEY_0
+config = 0000
+end
+
+begin
+prog = myprogram
+button = KEY_1
+config = 1111
+end
+
+begin
+prog = myprogram
+button = KEY_2
+config = 2222
+end
+
